@@ -1,0 +1,2 @@
+module Category::CategoriesHelper
+end
